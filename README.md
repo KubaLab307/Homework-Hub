@@ -8,9 +8,9 @@ A desktop application designed to help organise homework and schoolwork.
 - Organised schoolwork
 - Simple desktop interface
 
-## Installation
+## Screenshots
 
-Download the Homework Hub application for macOS.
+![Homework Hub](Screenshot.png)
 
 ## Project files
 
